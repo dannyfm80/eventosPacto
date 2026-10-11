@@ -20,7 +20,7 @@
     "time": "22:00",
     "price": "Consultar",
     "description": "Ritmo, coctelería y una pista lista para disfrutar.",
-    "image": "https://images.unsplash.com/photo-1571266028243-d220c9c3b1e5?auto=format&fit=crop&w=1100&q=85",
+    "image": "https://unsplash.com/es/fotos/bolas-de-espejo-de-discoteca-colgantes-iluminadas-249DzAuJTqQ",
     "published": true,
     "featured": true
   },
