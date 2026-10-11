@@ -71,5 +71,17 @@
     "image": "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=1100&q=85",
     "published": true,
     "featured": false
+  },
+  {
+    "id": "Burguer-week",
+    "title": "Imilla chanell",
+    "category": "Burguer week",
+    "date": "2026-10-10",
+    "time": "21:00",
+    "price": "55 bs",
+    "description": "Pan pretzel, carne de res con mozzarella, salsa de queso crema y azul, chicharrón de chancho y pulled pork cocido durante 5 horas, con champiñones, espinaca y reducción de vino tinto. Lo conocido se encuentra con lo inesperado… y juntos hacen algo demasiado bueno para ser casualidad.",
+    "image": "https://images.unsplash.com/photo-1572802419224-296b0aeee0d9?auto=format&fit=crop&w=1100&q=85",
+    "published": true,
+    "featured": false
   }
 ]
