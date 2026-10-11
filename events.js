@@ -2,7 +2,7 @@
 [
   {
     "id": "live-sessions",
-    "title": "PACTO Live Sessions",
+    "title": "PACTO Live Sessioness",
     "category": "Música en vivo",
     "date": "2026-11-06",
     "time": "22:00",
@@ -14,7 +14,7 @@
   },
   {
     "id": "dj-night",
-    "title": "PACTO DJ Night",
+    "title": "PACTO Good Night",
     "category": "DJs",
     "date": "2026-11-07",
     "time": "22:00",
