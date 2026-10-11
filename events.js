@@ -5,8 +5,7 @@
   Para ocultarlo sin borrarlo, usa published: false.
   image puede ser una URL pública o una imagen guardada en /public (ej. /events/noche.jpg).
   IMPORTANTE: estos eventos son ejemplos visuales; reemplázalos por la programación real.
-*/
-export const events = [
+*/[
   {
     id: "live-sessions",
     title: "PACTO Live Sessions",
