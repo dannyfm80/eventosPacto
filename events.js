@@ -31,7 +31,7 @@
     "date": "2026-11-14",
     "time": "21:00",
     "price": "Consultar",
-    "description": "ven a bailar con las mejores Cuecas chapacas, Caporal y Rompe Venas con la banda ""Sentir de Voces"",
+    "description": "ven a bailar con las mejores Cuecas chapacas, Caporal y Rompe Venas con la banda (Sentir de Voces) ",
     "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=1100&q=85",
     "published": true,
     "featured": true
