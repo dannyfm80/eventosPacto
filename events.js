@@ -14,39 +14,30 @@
   },
   {
     "id": "dj-night",
-    "title": "PACTO Good Night",
-    "category": "DJs",
+    "title": "Yalo Cuellar",
+    "category": "Música en vivo",
     "date": "2026-11-07",
     "time": "22:00",
     "price": "Consultar",
-    "description": "Ritmo, coctelería y una pista lista para disfrutar.",
+    "description": "¡SOLD OUT TOTAL!🔥 Muchad gracias a todos, que sea una noche llena de música y folklore🙌🏼",
     "image": "https://images.unsplash.com/photo-1517263904808-5dc91e3e7044?auto=format&fit=crop&w=1100&q=85",
     "published": true,
     "featured": true
   },
   {
     "id": "cocktail-night",
-    "title": "Cocktail Night",
-    "category": "Promociones",
+    "title": "Sentir de voces",
+    "category": "Música en vivo",
     "date": "2026-11-14",
     "time": "21:00",
     "price": "Consultar",
-    "description": "Descubre tus tragos favoritos y brinda con tus amigos.",
+    "description": "ven a bailar con las mejores Cuecas chapacas, Caporal y Rompe Venas con la banda "Sentir de Voces" 🎸🎤🔥🥁
+Cantaran canciones cómo:
+● Solo por ti, Selección de zambas, Martirio, Despertamos Y mucho más
+🍔🍕 Mismo lugar, misma calidad: hamburguesas, pizzas, piqueos, cócteles y música en vivo.",
     "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&w=1100&q=85",
     "published": true,
     "featured": true
-  },
-  {
-    "id": "fiesta-tematica",
-    "title": "Noche temática PACTO",
-    "category": "Fiestas temáticas",
-    "date": "2026-11-21",
-    "time": "22:00",
-    "price": "Consultar",
-    "description": "Una temática diferente, el mismo espíritu PACTO.",
-    "image": "https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=1100&q=85",
-    "published": true,
-    "featured": false
   },
   {
     "id": "live-acoustic",
@@ -63,7 +54,7 @@
   {
     "id": "friends-night",
     "title": "Noche entre amigos",
-    "category": "Promociones",
+    "category": "Música en vivo",
     "date": "2026-12-05",
     "time": "21:00",
     "price": "Consultar",
